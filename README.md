@@ -1,6 +1,6 @@
 
 # JavaScript Quiz App 
-This challenge is biuld up of timed code quiz which is made of multiple-choice question. the app run in the browser which feature ubdated HTML and CSS powered by Javascript code. This web app adapts to multiple screen sizes and was created as part of UC davis bootcamp code challenges.
+This app is biuld up of timed code quiz which is made of multiple-choice question. the app run in the browser which feature ubdated HTML and CSS powered by Javascript code. This web app adapts to multiple screen sizes and was created as part of UC davis bootcamp code challenges.
 Bellow are some screen shots.
 
 ![1](https://user-images.githubusercontent.com/91281668/139634343-2dcec8e8-43a4-4f03-9603-76866523ffb8.PNG)
